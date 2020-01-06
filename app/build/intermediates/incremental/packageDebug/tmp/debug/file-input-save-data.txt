@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 28 06:28:41 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\SHRI\\Music\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

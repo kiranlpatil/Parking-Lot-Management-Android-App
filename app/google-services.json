@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338974929290",
+    "firebase_url": "https://park-6204f.firebaseio.com",
+    "project_id": "park-6204f",
+    "storage_bucket": "park-6204f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338974929290:android:9924d5139fa6a698",
+        "android_client_info": {
+          "package_name": "com.my.kiranpatil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338974929290-625nk4q1caouh79fs8g4lg2mnbkeedv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsTdJkyphVjbbAP3jhHZyIfnOCWkeTyaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338974929290-625nk4q1caouh79fs8g4lg2mnbkeedv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
